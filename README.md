@@ -1,2 +1,2 @@
-# personal-page
+# responsive-resume-template
 Created with CodeSandbox
